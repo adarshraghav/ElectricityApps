@@ -7,22 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF0F984A2A0E7CE500DF2179 /* Electricity.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F98492A0E7CE500DF2179 /* Electricity.swift */; };
+		EF0F984C2A0E83BE00DF2179 /* UnitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F984B2A0E83BE00DF2179 /* UnitsView.swift */; };
+		EF0F984E2A0EA27B00DF2179 /* UnitsRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F984D2A0EA27B00DF2179 /* UnitsRow.swift */; };
+		EF0F98502A0EC23000DF2179 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F984F2A0EC23000DF2179 /* SwiftUIView.swift */; };
+		EF0F98522A0EC35400DF2179 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F98512A0EC35400DF2179 /* History.swift */; };
 		EF910A972A06139400A202E1 /* Realm_ToDo_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF910A962A06139400A202E1 /* Realm_ToDo_1App.swift */; };
-		EF910A992A06139400A202E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF910A982A06139400A202E1 /* ContentView.swift */; };
+		EF910A992A06139400A202E1 /* ToDoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF910A982A06139400A202E1 /* ToDoListView.swift */; };
 		EF910A9B2A06139600A202E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF910A9A2A06139600A202E1 /* Assets.xcassets */; };
 		EF910A9E2A06139600A202E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF910A9D2A06139600A202E1 /* Preview Assets.xcassets */; };
 		EF910AA52A06155000A202E1 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF910AA42A06155000A202E1 /* Launch Screen.storyboard */; };
 		EF910AA82A06190900A202E1 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = EF910AA72A06190900A202E1 /* Realm */; };
 		EF910AAA2A06190900A202E1 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = EF910AA92A06190900A202E1 /* RealmSwift */; };
+		EF910AAD2A06197D00A202E1 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF910AAC2A06197D00A202E1 /* ToDo.swift */; };
+		EF910AB12A065AF400A202E1 /* ToDoListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF910AB02A065AF400A202E1 /* ToDoListRow.swift */; };
+		EF9CD0F02A112DA200248B56 /* PriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9CD0EF2A112DA200248B56 /* PriceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF0F98492A0E7CE500DF2179 /* Electricity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Electricity.swift; sourceTree = "<group>"; };
+		EF0F984B2A0E83BE00DF2179 /* UnitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitsView.swift; sourceTree = "<group>"; };
+		EF0F984D2A0EA27B00DF2179 /* UnitsRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitsRow.swift; sourceTree = "<group>"; };
+		EF0F984F2A0EC23000DF2179 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		EF0F98512A0EC35400DF2179 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		EF910A932A06139400A202E1 /* Realm ToDo-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Realm ToDo-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF910A962A06139400A202E1 /* Realm_ToDo_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Realm_ToDo_1App.swift; sourceTree = "<group>"; };
-		EF910A982A06139400A202E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EF910A982A06139400A202E1 /* ToDoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListView.swift; sourceTree = "<group>"; };
 		EF910A9A2A06139600A202E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF910A9D2A06139600A202E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EF910AA42A06155000A202E1 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		EF910AAC2A06197D00A202E1 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
+		EF910AB02A065AF400A202E1 /* ToDoListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListRow.swift; sourceTree = "<group>"; };
+		EF9CD0EF2A112DA200248B56 /* PriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceView.swift; sourceTree = "<group>"; };
+		EF9CD0F12A1134EE00248B56 /* Realm-ToDo-1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Realm-ToDo-1-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +74,10 @@
 		EF910A952A06139400A202E1 /* Realm ToDo-1 */ = {
 			isa = PBXGroup;
 			children = (
+				EF9CD0F12A1134EE00248B56 /* Realm-ToDo-1-Info.plist */,
 				EF910A962A06139400A202E1 /* Realm_ToDo_1App.swift */,
-				EF910A982A06139400A202E1 /* ContentView.swift */,
+				EF910AAB2A06196300A202E1 /* Models */,
+				EF910AAF2A065AB300A202E1 /* Views */,
 				EF910A9A2A06139600A202E1 /* Assets.xcassets */,
 				EF910AA42A06155000A202E1 /* Launch Screen.storyboard */,
 				EF910A9C2A06139600A202E1 /* Preview Content */,
@@ -72,6 +91,29 @@
 				EF910A9D2A06139600A202E1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EF910AAB2A06196300A202E1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				EF910AAC2A06197D00A202E1 /* ToDo.swift */,
+				EF0F98492A0E7CE500DF2179 /* Electricity.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EF910AAF2A065AB300A202E1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EF0F984F2A0EC23000DF2179 /* SwiftUIView.swift */,
+				EF0F98512A0EC35400DF2179 /* History.swift */,
+				EF910A982A06139400A202E1 /* ToDoListView.swift */,
+				EF0F984B2A0E83BE00DF2179 /* UnitsView.swift */,
+				EF9CD0EF2A112DA200248B56 /* PriceView.swift */,
+				EF910AB02A065AF400A202E1 /* ToDoListRow.swift */,
+				EF0F984D2A0EA27B00DF2179 /* UnitsRow.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,8 +194,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF910A992A06139400A202E1 /* ContentView.swift in Sources */,
+				EF0F98522A0EC35400DF2179 /* History.swift in Sources */,
+				EF910AAD2A06197D00A202E1 /* ToDo.swift in Sources */,
+				EF910A992A06139400A202E1 /* ToDoListView.swift in Sources */,
+				EF0F98502A0EC23000DF2179 /* SwiftUIView.swift in Sources */,
+				EF9CD0F02A112DA200248B56 /* PriceView.swift in Sources */,
+				EF0F984E2A0EA27B00DF2179 /* UnitsRow.swift in Sources */,
+				EF0F984C2A0E83BE00DF2179 /* UnitsView.swift in Sources */,
+				EF910AB12A065AF400A202E1 /* ToDoListRow.swift in Sources */,
 				EF910A972A06139400A202E1 /* Realm_ToDo_1App.swift in Sources */,
+				EF0F984A2A0E7CE500DF2179 /* Electricity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +335,9 @@
 				DEVELOPMENT_TEAM = 26HQJG5NDV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Realm-ToDo-1-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -315,6 +368,9 @@
 				DEVELOPMENT_TEAM = 26HQJG5NDV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Realm-ToDo-1-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
